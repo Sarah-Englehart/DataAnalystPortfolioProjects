@@ -9,4 +9,4 @@ Tableau Projects:
 2. [Food Price Analysis](https://public.tableau.com/app/profile/sarah.englehart/viz/Food_Cost_Viz/Dashboard1)
 
 Power BI Projects:
-1. 
+1. [Data Professional Survey Breakdown](https://github.com/Sarah-Englehart/DataAnalystPortfolioProjects/blob/main/PowerBI_Data_Professional_Viz.png)
